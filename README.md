@@ -1,7 +1,7 @@
-# Welcome to Your First Coding Project in Cursor
+# Welcome to Your First Coding Project
 
-This is a simple project to help you get started with Python using the Cursor IDE.  
-You'll write your very first scripts here, while Cursor (with AI) acts as your tutor and guide.  
+This is a simple project to help you get started with Python using your preferred IDE: VSCode, Cursor, or Antigravity.  
+You'll write your very first scripts here, while your AI assistant acts as your tutor and guide.  
 Let's explore this workspace together:
 
 ---
@@ -9,7 +9,7 @@ Let's explore this workspace together:
 ## 📋 Table of Contents
 
 1. [Prerequisites](#prerequisites)
-2. [Getting to Know Cursor](#getting-to-know-cursor)
+2. [Getting to Know Your IDE](#getting-to-know-your-ide)
    - [Exploring the Project Files](#exploring-the-project-files)
    - [How to Run Code](#how-to-run-code)
    - [Setup](#setup)
@@ -94,11 +94,15 @@ git --version
 
 - **Manual way:** Download from [git-scm.com](https://git-scm.com/downloads)
 
-### 3. Cursor IDE
+### 3. IDE Choice (VSCode, Cursor, or Antigravity)
 
-You're probably already using Cursor if you're reading this! If not, download it from [cursor.sh](https://cursor.sh).
+Choose one of these IDE options:
 
-> **💡 Note:** This project also works with VS Code, but Cursor is recommended for the built-in AI features.
+- [VSCode](https://code.visualstudio.com)
+- [Cursor](https://cursor.sh)
+- [Antigravity](https://antigravity.dev)
+
+> **💡 Note:** This project works with VSCode, Cursor, and Antigravity.
 
 **Need detailed setup help?** Check out the full guides:
 
@@ -107,14 +111,14 @@ You're probably already using Cursor if you're reading this! If not, download it
 
 ---
 
-## Getting to Know Cursor
+## Getting to Know Your IDE
 
 Your screen has a few key areas:
 
 - **Explorer (Left Side)**: Like a file cabinet — it shows all project files (like `main.py`). Click a file to open it.
 - **Editor (Center)**: Your workbench. This is where you’ll write and edit code.
 - **Terminal (Bottom)**: Your command center. Run commands here to execute your scripts and see results.
-- **Cursor Chat (Right Side)**: Your AI assistant. You can ask questions about your code, concepts, or next steps.  
+- **AI Chat Panel (Right Side)**: Your AI assistant. You can ask questions about your code, concepts, or next steps.  
   Remember: the AI will explain logic simply, not overwhelm you with code details.
 
 ### Exploring the Project Files
@@ -142,7 +146,7 @@ python main.py
 Hello, world!
 ```
 
-🎉 Congrats, you just ran your first Python program in Cursor!
+🎉 Congrats, you just ran your first Python program in your IDE!
 
 ---
 
@@ -203,9 +207,9 @@ When you need to store secrets (like API keys), create a file named `.env` in yo
    PASSWORD=your_password_here
    ```
 
-3. Ask Cursor AI: **"Use my API key from the .env file"**
+3. Ask your AI assistant: **"Use my API key from the .env file"**
 
-Cursor will help you load and use these secrets properly in your code.
+Your AI assistant will help you load and use these secrets properly in your code.
 
 > **💡 Tip:** Your `.env` file is already protected by `.gitignore`, so it won't be uploaded to GitHub. Your secrets stay private!
 
@@ -213,15 +217,15 @@ Cursor will help you load and use these secrets properly in your code.
 
 - **Never** write secrets directly in your code
 - **Always** use a `.env` file for passwords, API keys, and tokens
-- **Ask Cursor** to help you use environment variables when you need them
+- **Ask your AI assistant** to help you use environment variables when you need them
 
 ---
 
 ## Your First Challenge: Understanding the Code
 
-Before running anything, let’s ask Cursor what the code means.
+Before running anything, let’s ask your AI assistant what the code means.
 
-In the **Cursor Chat**, on the right side, type:
+In the **AI Chat panel**, on the right side, type:
 
 ```text
 Can you explain what the code in `main.py` does?
